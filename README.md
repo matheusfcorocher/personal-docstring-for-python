@@ -7,3 +7,4 @@ This repository contains examples like classes, methods, functions, tests, etc..
 - https://www.betterspecs.org/
 
 It only is a mixed of Google and Numpydoc. The docstring made is not a recommendation for using in your project, feel free to use or not.
+Also, you can read the websites above and create your own docstring.
